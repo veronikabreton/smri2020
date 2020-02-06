@@ -16,6 +16,7 @@ My first awesome README
 
 * Try to follow and run the commands in https://realpython.com/python-first-steps/
 
+* Set up proper applications on laptop
 ## Reading
 
 The Handbook for Biological Statistics
