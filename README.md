@@ -47,5 +47,8 @@ https://www.python.org/
 Git
 https://git-scm.com/book/en/v2
 
+Athena - standardized drug and side effect names
+athena.ohdsi.org
+
 Pandas tutorial
 https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/
