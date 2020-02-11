@@ -1,5 +1,7 @@
 # smri2020
 
+Insert here
+
 My first awesome chromebook edit!
 
 My first awesome README
