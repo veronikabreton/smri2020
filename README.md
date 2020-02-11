@@ -12,7 +12,7 @@ My first awesome README
 
 - Went over basic commands of how to go through the terminal
 
-- Simple commands to work with Git directories
+- We learned simple commands to work with Git directories
 
 - I learned how to edit this file!
 
@@ -35,5 +35,16 @@ My first awesome README
 The Handbook for Biological Statistics
 
 http://www.biostathandbook.com/index.html
+
+### Resources
+
+Project Jupyter
+https://jupyter.org/
+
+Python
+https://www.python.org/
+
+Git
+https://git-scm.com/book/en/v2
 
 
