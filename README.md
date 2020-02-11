@@ -1,12 +1,20 @@
 # smri2020
 
-Insert here
+
 
 My first awesome chromebook edit!
 
 My first awesome README
 
 ## Weekly Digest
+
+### February 11th
+
+- Went over basic commands of how to go through the terminal
+
+- Simple commands to work with Git directories
+
+- I learned how to edit this file!
 
 ### February 4th
 
@@ -21,6 +29,7 @@ My first awesome README
 * Try to follow and run the commands in https://realpython.com/python-first-steps/
 
 * Set up proper applications on laptop
+
 ## Reading
 
 The Handbook for Biological Statistics
