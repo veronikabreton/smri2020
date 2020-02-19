@@ -6,6 +6,14 @@ My first awesome README
 
 ## Weekly Digest
 
+### February 19th
+
+- Tasks for next week:
+
+   - Try to answer the two questions in thhe notebook
+   
+   - Read the hypothesis testing chapter in the biological statistics handbook
+   
 ### February 11th
 
 - Went over basic commands of how to go through the terminal
