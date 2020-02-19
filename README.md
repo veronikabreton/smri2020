@@ -42,6 +42,15 @@ https://jupyter.org/
 Python
 https://www.python.org/
 
+Pandas tutorials and notebooks
+
+https://pandas.pydata.org/pandas-docs/stable/getting_started/tutorials.html
+https://github.com/guipsamora/pandas_exercises
+
+Pandas videos
+
+https://www.youtube.com/watch?v=pu3IpU937xs&list=PLgJhDSE2ZLxaY_DigHeiIDC1cD09rXgJv
+
 Git
 https://git-scm.com/book/en/v2
 
