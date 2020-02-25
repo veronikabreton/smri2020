@@ -6,6 +6,22 @@ My first awesome README
 
 ## Weekly Digest
 
+
+### February 27th
+
+- Outline
+   - Go through asking and answering more questions.
+   - Go through hypothesis testing
+   - Assign reading/videos on hypothesis testing
+   
+### February 25th
+
+- Tasks:
+
+   - Ask and try to answer 5 questions
+   
+   - Identify 3 pandas tutorials and read through as well as implement some of their examples (if you are able to with their instructions). 
+
 ### February 19th
 
 - Tasks for next week:
