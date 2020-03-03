@@ -12,6 +12,7 @@ My first awesome README
    - Write down (>5) questions about consumer drug reporting you are interested in. 
    - (when nick puts up the consumer data) Ask and answer atleast 5 questions in the new dataset that you are interested in. 
       - Drugs, reactions, sex, age, date
+      
 -Tasks
    - Do the above.
    - Also, think of 3 larger questions, that you may not be able to answer now, but would like to know about adverse drug effects and how consumers report them.
