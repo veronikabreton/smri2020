@@ -12,6 +12,10 @@ My first awesome README
    - Write down (>5) questions about consumer drug reporting you are interested in. 
    - (when nick puts up the consumer data) Ask and answer atleast 5 questions in the new dataset that you are interested in. 
       - Drugs, reactions, sex, age, date
+-Tasks
+   - Do the above.
+   - Also, think of 3 larger questions, that you may not be able to answer now, but would like to know about adverse drug effects and how consumers report them.
+   - Also, write down 3 null hypotheses that underly your questions. In other words, what are the statements that you want to argue are NOT the case. For example, if you want to know the relationship of A and B, your null hypothesis is there is no relationship between A and B. 
 
 ### February 27th
 
