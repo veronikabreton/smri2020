@@ -6,7 +6,17 @@ My first awesome README
 
 ## Weekly Digest
 
+### March 5th
 
+- Tasks
+  - Read more about 
+     - the problem (why and how adverse drug reactions are bad), 
+        - Look here for research articles https://www.ncbi.nlm.nih.gov/pubmed/
+     - what contributes to the problem (specifically, age and sex), 
+     - why we need to address the problem (increase awareness, influence policy, etc.), and 
+     - why this data will help us address the problem (read about the openfda and why consumer reports would be useful to address the problem)
+  - Write down what you would say as you present your slides in the presenter notes
+  - Read this again http://www.biostathandbook.com/hypothesistesting.html
 ### March 3
 - Outline
    - Write down (>5) questions about consumer drug reporting you are interested in. 
