@@ -6,11 +6,22 @@ My first awesome README
 
 ## Weekly Digest
 
+### March 10th
+
+- Tasks
+  - Finish any unfinished tasks from last week.
+  - Go through presentation slides
+    - Read through a few times what you have written and practice speaking in front of friends/family. Ideally, you should be able to communicate to them what are adverse drug reactions, why they are a problem to individuals and society, and how data can help us address the problem (e.g. raise awareness of the issue).
+    - When we meet again, you will present your slides as you would on the actual presentation day. 
+  - Write down 3 questions about how adverse drug reactions vary between patients of different age and different sex. 
+    - Write down both a null and alternative hypothesis for each question. 
+    - This exercise will help identify the questions/hypotheses to be investigated for the rest of the project.
+    
 ### March 5th
 
 - Tasks
   - Read more about 
-     - the problem (why and how adverse drug reactions are bad), 
+     - the problem (why and how adverse drug reactions are bad),  
         - Look here for research articles https://www.ncbi.nlm.nih.gov/pubmed/
      - what contributes to the problem (specifically, age and sex), 
      - why we need to address the problem (increase awareness, influence policy, etc.), and 
