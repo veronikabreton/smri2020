@@ -6,6 +6,15 @@ My first awesome README
 
 ## Weekly Digest
 
+### March 12th
+
+- Tasks
+  - Practice presentation
+    - practice it like you would give it on the 24th.
+    - Understand why we set up both questions and hypotheses
+    - Understand why we form both a null and alternative hypothesis.
+  - Try extracting the data necessary to answer all three questions
+  
 ### March 10th
 
 - Tasks
