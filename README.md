@@ -6,6 +6,14 @@ My first awesome README
 
 ## Weekly Digest
 
+### March 17th
+
+- Tasks
+  - Practice presentation so as to be ready to presentt it over your laptop via Google Hangouts
+  - Do 2 more examples for hypothesis 1 using less code than the firs example
+  - Read here: http://www.biostathandbook.com/linearregression.html
+     - Focus on understtanding correlation and r squared. 
+     
 ### March 12th
 
 - Tasks
