@@ -6,6 +6,12 @@ My first awesome README
 
 ## Weekly Digest
 
+### April 2nd
+
+- Tasks
+  - Finish count and frequency tabulation of males and females per reaction
+  - Read http://www.biostathandbook.com/fishers.html and write pseudocode for testing hypotheses with this test for all concepts.
+  
 ### March 17th
 
 - Tasks
