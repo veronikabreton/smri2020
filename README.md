@@ -6,6 +6,12 @@ My first awesome README
 
 ## Weekly Digest
 
+
+### April 7th
+
+- Tasks:
+  - Finish tasks from the 2nd
+  
 ### April 2nd
 
 - Tasks
