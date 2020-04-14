@@ -15,6 +15,7 @@ My first awesome README
   - Run fisher drug and reaction tests for all drugs and reactions
   - Get the number of drugs and reactions above and below a bonferroni value of 0.05
      - write those numbers in your slides
+  - Read paired ttest chapter in handbook
      
 ### April 7th
 
