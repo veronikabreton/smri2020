@@ -7,6 +7,15 @@ My first awesome README
 ## Weekly Digest
 
 
+### April 14th
+
+- Tasks:
+  - Start Project presentation slides that will contain all the results (numbers/figures/etc.) from answering the Qs and testing the hypotheses.
+  - Read the multiple comparisons chapter in the online handbook
+  - Run fisher drug and reaction tests for all drugs and reactions
+  - Get the number of drugs and reactions above and below a bonferroni value of 0.05
+     - write those numbers in your slides
+     
 ### April 7th
 
 - Tasks:
