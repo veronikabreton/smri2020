@@ -7,6 +7,14 @@ My first awesome README
 ## Weekly Digest
 
 
+### April 21st
+
+- Tasks:
+   - Finish Q1 and Q2
+      - Look into other appropriate hypothesis tests for Q2
+   - Read chapters on matplotlib to generate some plots to include in final results slides
+      - https://jakevdp.github.io/PythonDataScienceHandbook/
+
 ### April 14th
 
 - Tasks:
